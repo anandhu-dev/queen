@@ -23,9 +23,9 @@ PM_START_TEXT = """
 *Hey {}, My name is {}! 
 im a Group Manager bot Maintained by*  [This Person](tg://user?id={}).
 
-*hit /help to Find Out More About How to Use Me.*😊
+*Hit /help to Find Out More About How to Use Me.*😊
 
-*Currently i'm Managing Tech Hackers OFFICIAL Group.*
+___Currently i'm Managing Tech Hackers OFFICIAL Group.___
 
 *Kindly Subscribe our Youtube Channel* [AMAL SAJOY](https://www.youtube.com/channel/UC37SlkfSxKp79SNhlz-Wfjw) *and* [JOIN](https://t.me/ytamalsajoy) *Our Group* 😍
 
