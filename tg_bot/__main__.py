@@ -18,6 +18,8 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
+_______________________________ 👇🏻
+
 Hey {}, my name is {}! 
 im a group manager bot maintained by  [this person](tg://user?id={}).
 
@@ -25,11 +27,9 @@ hit /help to find out more about how to use me.😊
 
 *currently i'm managing Tech Hackers OFFICIAL Group.*
 
-Kindly subscribe our youtube channel [AMAL SAJOY](https://www.youtube.com/channel/UC37SlkfSxKp79SNhlz-Wfjw)
-and [join](https://t.me/ytamalsajoy) our group 😍
+Kindly subscribe our youtube channel [AMAL SAJOY](https://www.youtube.com/channel/UC37SlkfSxKp79SNhlz-Wfjw) and [join](https://t.me/ytamalsajoy) our group 😍
 
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
-
+_______________________________ 👆🏻
 """
 
 HELP_STRINGS = """
