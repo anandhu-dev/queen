@@ -18,18 +18,18 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭
+..........................................👇🏻
 
-*Hey {}, my name is {}! 
-im a group manager bot maintained by*  [this person](tg://user?id={}).
+*Hey {}, My name is {}! 
+im a Group Manager bot Maintained by*  [This Person](tg://user?id={}).
 
-*hit /help to find out more about how to use me.*😊
+*hit /help to Find Out More About How to Use Me.*😊
 
-*currently i'm managing Tech Hackers OFFICIAL Group.*
+*Currently i'm Managing Tech Hackers OFFICIAL Group.*
 
-*Kindly subscribe our youtube channel* [AMAL SAJOY](https://www.youtube.com/channel/UC37SlkfSxKp79SNhlz-Wfjw) *and* [join](https://t.me/ytamalsajoy) *our group* 😍
+*Kindly Subscribe our Youtube Channel* [AMAL SAJOY](https://www.youtube.com/channel/UC37SlkfSxKp79SNhlz-Wfjw) *and* [JOIN](https://t.me/ytamalsajoy) *Our Group* 😍
 
-٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭٭
+..........................................👆🏻
 """
 
 HELP_STRINGS = """
