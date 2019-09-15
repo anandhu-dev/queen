@@ -144,7 +144,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
                 parse_mode=ParseMode.MARKDOWN)
     else:
-        update.effective_message.reply_text("Hey {first} don't use bot commands without admis permission 😡😡 ")
+        update.effective_message.reply_text("huh!😒 what's up.? Please Let me sleep.. 🥺😴")
 
 
 # for test purposes
