@@ -16,14 +16,13 @@ class CustomFilters(BASE):
     is_audio = Column(Boolean, nullable=False, default=False)
     is_voice = Column(Boolean, nullable=False, default=False)
     is_video = Column(Boolean, nullable=False, default=False)
-    is_text = Column(Boolean, nullable=False, default=False)
 
     has_buttons = Column(Boolean, nullable=False, default=False)
     # NOTE: Here for legacy purposes, to ensure older filters don't mess up.
     has_markdown = Column(Boolean, nullable=False, default=False)
 
     def __init__(self, chat_id, keyword, reply, is_sticker=False, is_document=False, is_image=False, is_audio=False,
-                 is_voice=False, is_text=False, is_video=False, has_buttons=False):
+                 is_voice=False, is_video=False, has_buttons=False):
         self.chat_id = str(chat_id)  # ensure string
         self.keyword = keyword
         self.reply = reply
@@ -33,7 +32,6 @@ class CustomFilters(BASE):
         self.is_audio = is_audio
         self.is_voice = is_voice
         self.is_video = is_video
-        self.is_text = is_text
         self.has_buttons = has_buttons
         self.has_markdown = True
 
