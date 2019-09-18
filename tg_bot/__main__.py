@@ -18,14 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-..........................................👇🏻
-	
-```Hey *{}*, 🥰 My name is *{}!* 🙋
-im a Group Manager bot Maintained by [This Person](tg://user?id={}). Hit /help to Find Out More About How to Use me. 
-I’m not lazy, I’m just on my energy saving mode.
-
-*Kindly Subscribe our Youtube Channel* [AMAL SAJOY](https://www.youtube.com/channel/UC37SlkfSxKp79SNhlz-Wfjw) *and* [JOIN](https://t.me/ytamalsajoy) *Our Group* 😍```
-.........................................👆🏻
+Yes! I am here. What you want?🙋
 """
 
 HELP_STRINGS = """
