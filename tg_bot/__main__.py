@@ -20,12 +20,12 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 ..........................................👇🏻
 	
-Hey *{}*, 🥰 My name is *{}!* 🙋
+<code>Hey *{}*, 🥰 My name is *{}!* 🙋
 __im a Group Manager bot Maintained by__  [This Person](tg://user?id={}). Hit /help to Find Out More About How to Use Me.😊
 
 ___I’m not lazy, I’m just on my energy saving mode.___
 
-*Kindly Subscribe our Youtube Channel* [AMAL SAJOY](https://www.youtube.com/channel/UC37SlkfSxKp79SNhlz-Wfjw) *and* [JOIN](https://t.me/ytamalsajoy) *Our Group* 😍
+*Kindly Subscribe our Youtube Channel* [AMAL SAJOY](https://www.youtube.com/channel/UC37SlkfSxKp79SNhlz-Wfjw) *and* [JOIN](https://t.me/ytamalsajoy) *Our Group* 😍<code>
 
 ..........................................👆🏻
 """
