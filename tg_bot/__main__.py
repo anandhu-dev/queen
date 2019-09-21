@@ -18,12 +18,15 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Yes! I am here. What you want?🙋
+Hai my name is *{}*. 🙋 Njan oru group managing bot aanu. Ene ningalude group admin aakkiyaal ningal offline aanenkil koodi enik ningalude
+group manage cheyyan sadhikkum. Njan 24hrs online undaavum. ene group admin aakunathil pedikenda njan ningalude commandsinu anusarich maathrame
+prevarthikkukayullu. Ente creator ene niyanthrikaan aayi kurchu commandukal ithil ulpeduthiyittund. athinaayi /help ennu type cheythaal mathiyagum.
+ennodu communicate cheyyan ningal ee commands upayogikendathund. 
 """
 
 HELP_STRINGS = """
 
-Hello! my name is *{}*.
+Hello!.
 
 *Main* available commands:
  - /start: Start the bot...
